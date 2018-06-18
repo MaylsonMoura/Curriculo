@@ -52,3 +52,7 @@ body{
 header, nav, main{
     margin-bottom: 10px;
 }
+
+.txt-centro{
+    text-align: center;
+}
