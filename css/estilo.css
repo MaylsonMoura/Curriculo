@@ -26,7 +26,7 @@ aside{
 }
 main{
     background: #ccc;
-    height: 600px;
+    min-height: 600px;
     width: 79%;
     float: right;
     border-radius: 10px;
